@@ -1,0 +1,15 @@
+C:\C#\DIO.Serles\bin\Debug\net6.0\DIO.Serles.exe
+C:\C#\DIO.Serles\bin\Debug\net6.0\DIO.Serles.deps.json
+C:\C#\DIO.Serles\bin\Debug\net6.0\DIO.Serles.runtimeconfig.json
+C:\C#\DIO.Serles\bin\Debug\net6.0\DIO.Serles.dll
+C:\C#\DIO.Serles\bin\Debug\net6.0\ref\DIO.Serles.dll
+C:\C#\DIO.Serles\bin\Debug\net6.0\DIO.Serles.pdb
+C:\C#\DIO.Serles\obj\Debug\net6.0\DIO.Serles.csproj.AssemblyReference.cache
+C:\C#\DIO.Serles\obj\Debug\net6.0\DIO.Serles.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DIO.Serles\obj\Debug\net6.0\DIO.Serles.AssemblyInfoInputs.cache
+C:\C#\DIO.Serles\obj\Debug\net6.0\DIO.Serles.AssemblyInfo.cs
+C:\C#\DIO.Serles\obj\Debug\net6.0\DIO.Serles.csproj.CoreCompileInputs.cache
+C:\C#\DIO.Serles\obj\Debug\net6.0\DIO.Serles.dll
+C:\C#\DIO.Serles\obj\Debug\net6.0\ref\DIO.Serles.dll
+C:\C#\DIO.Serles\obj\Debug\net6.0\DIO.Serles.pdb
+C:\C#\DIO.Serles\obj\Debug\net6.0\DIO.Serles.genruntimeconfig.cache
